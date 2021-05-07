@@ -1,0 +1,7 @@
+name: Warps
+main: de.xconnortv.warps.Warps
+author: xConnorTV
+version: 1.0
+commands:
+   warps:
+   warp:

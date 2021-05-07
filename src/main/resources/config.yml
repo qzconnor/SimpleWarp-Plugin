@@ -1,0 +1,14 @@
+permissions:
+   player:
+      permission: 'warps.player'
+blacklistedWorlds: []
+warpgui:
+   size: 27
+   name: '&6&lWarps'
+messages:
+   NoPerms: '&cKeine Rechte!'
+   WarpNameToLoS: '&cDer name darf nur zwischen 2 und 16 Zeichen enthalten!'
+   WarpSuccess: '&7Der Warp &6&l%WARP% &7wurde &aerfolgreich &7erstellt!'
+   WarpError: '&7Der Warp &6&l%WARP% &7konnte &cnicht &7erstellt werden!'
+   Teleport: '&7Du wurdest zu deinem Warp teleportiert!'
+   BlackListedWorld: '&7Du befindest dich auf einer Welt wo du keinen Warp erstellen darfst'
